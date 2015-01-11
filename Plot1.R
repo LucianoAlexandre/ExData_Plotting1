@@ -1,4 +1,4 @@
-setwd("~/ExploratoryDataProject/")
+setwd("~/ExData_Plotting1/")
 
 if (is.null(data)){
   data<-read.table("household_power_consumption.txt",
